@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Augustina29
-- 👀 I’m interested in anything Data Analysis
+- 👀 I’m interested in everything Data Analysis
 - 🌱 I’m currently learning Python, R on Datacamp and Coursera
 - 💞️ I’m looking to collaborate on projects, courses.
 - 📫 How to reach me 08060417442
